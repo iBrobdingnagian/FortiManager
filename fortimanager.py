@@ -5,9 +5,7 @@ import sys
 
 hosgeldin = """
                   ******************************************
-                    FortiManager Uygulamasına Hoşgeldiniz
-                       Çankırı KHB Bilgi Sistemleri
-                                2017
+                       Welcome to the FortiManager App
                   ******************************************
 """
 print(hosgeldin)
@@ -90,13 +88,13 @@ def oku(parametre):
 islem = """
 
    ******************************************************
-          1- Network Kullanım Durumu
-          2- Ram Kullanımı
-          3- CPU Kullanımı
-          4- Session  Sayısı
-          5- Saldırı log bilgisi
-          6- Antivirüs log bilgisi
-          { Çıkış için Sıfır'a basın }
+          1- Network Usage Case
+          2- Ram Usage
+          3- CPU Usage
+          4- Session Numbers
+          5- Attack log information
+          6- Antivirus log information
+          { Press Zero to exit }
    ******************************************************
 
 
